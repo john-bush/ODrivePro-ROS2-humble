@@ -1,0 +1,4 @@
+uint8 axis
+---
+float32 temp_inverter
+float32 temp_motor
